@@ -28,7 +28,7 @@
    Installation is very easy! Just follow the steps below:
    
    1. Clone the repository
-      `git clone https://github.com/NebulaServices/Noctura.git`
+      `git clone https://github.com/mapplegaming208alt/Noctura.git`
    2. Install the dependencies
       `npm install`
    3. Run Noctura
